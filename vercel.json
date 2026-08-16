@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/jokenpo-arena",
+      "destination": "https://eduardoehg.github.io/jokenpo-arena/"
+    },
+    {
+      "source": "/jokenpo-arena/:path*",
+      "destination": "https://eduardoehg.github.io/jokenpo-arena/:path*"
+    }
+  ]
+}
