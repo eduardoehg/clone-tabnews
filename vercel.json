@@ -7,6 +7,17 @@
     {
       "source": "/jokenpo-arena/:path*",
       "destination": "https://eduardoehg.github.io/jokenpo-arena/:path*"
+    },
+    {
+      "source": "/pergunta",
+      "destination": "https://pergunta-eta.vercel.app/"
+    },
+    {
+      "destination": "https://pergunta-eta.vercel.app/"
+    },
+    {
+      "source": "/pergunta/:path*",
+      "destination": "https://pergunta-eta.vercel.app/:path*"
     }
   ]
 }
