@@ -13,9 +13,6 @@
       "destination": "https://pergunta-eta.vercel.app/"
     },
     {
-      "destination": "https://pergunta-eta.vercel.app/"
-    },
-    {
       "source": "/pergunta/:path*",
       "destination": "https://pergunta-eta.vercel.app/:path*"
     }
